@@ -24,9 +24,9 @@
 ---
 
 ### 📂 Projets en avant
-- 📝 [To-do App](https://github.com/tonprofil/todo-app) – Application de gestion de tâches (React + Laravel API).  
-- 📦 [Laundry Delivery](https://github.com/tonprofil/laundry-delivery) – Service de blanchisserie avec livraison.  
-- 🔐 [Auth System](https://github.com/tonprofil/auth-system) – Gestion d’authentification sécurisée avec Laravel + Sanctum.  
+- 📝 [Crud](https://github.com/bouabre225/CRUD_API) – Application de gestion de crud (React + Laravel API).  
+- 📦 [jeu de pierre feuille ciseaux](https://github.com/bouabre225/jeu-pierre-feuille-ciseaux-) – jeu de pierre feuille ciseaux (Python) 
+- 🔐 [catre etudiant](https://github.com/bouabre225/carte_etudant) – Gestion de carte etudiant (PHP)  
 
 ---
 
