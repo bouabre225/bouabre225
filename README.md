@@ -28,8 +28,6 @@
 - 📦 [Laundry Delivery](https://github.com/tonprofil/laundry-delivery) – Service de blanchisserie avec livraison.  
 - 🔐 [Auth System](https://github.com/tonprofil/auth-system) – Gestion d’authentification sécurisée avec Laravel + Sanctum.  
 
-*(Tu peux remplacer les liens par les vrais dépôts que tu veux montrer.)*
-
 ---
 
 ### 📫 Me contacter
