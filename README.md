@@ -1,63 +1,73 @@
-<h1 align="center">Salut 👋, je suis **Ange KORE** (bouabre225)</h1>
-<h3 align="center">Développeur Full‑Stack passionné | Backend ↔ Frontend ↔ DevOps</h3>
+<!-- Bannière / Titre -->
+<h1 align="center">👋 Salut, moi c’est <strong>Ange KORE</strong> (aka <code>bouabre225</code>)</h1>
+<h3 align="center">🚀 Développeur Full-Stack | Backend ↔ Frontend ↔ DevOps</h3>
 
 ---
 
-### 🚀 À propos de moi
+<!-- À propos -->
+### 🌍 À propos de moi
 
-- 🔭 Je travaille principalement avec **Laravel** pour le backend  
-- 💻 Du côté frontend : **React** & **Angular**  
-- 🗄 Bases de données : **PostgreSQL** / **MySQL**  
-- 🐳 Environnements & conteneurs : **Docker**, **Linux**  
-- 🌱 Je suis toujours en train d’apprendre de nouvelles technologies et d’améliorer mes compétences  
-- 📫 Contact : [LinkedIn](), [Email]()  
-
----
-
-### 🧰 Stack & outils
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+💡 Passionné par la conception d’applications performantes, élégantes et scalables.  
+🎯 Objectif : construire des solutions web solides, du backend jusqu’à l’UI.  
+💻 Stack actuelle : **Laravel**, **React**, **Angular**, **Docker**, **Linux**.  
+🧠 J’explore sans cesse de nouvelles technos & architectures modernes.  
+📬 Contactez-moi : [LinkedIn](https://www.linkedin.com/in/ange-kore-a60287235) · [Mail](mailto:angebouabre463@gmail.com)
 
 ---
 
-### 📊 Statistiques GitHub
+<!-- Badges Stack -->
+### 🧰 Stack & Outils
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=bouabre225&show_icons=true&theme=github_dark)  
-![Langages dominants](https://github-readme-stats.vercel.app/api/top-langs/?username=bouabre225&layout=compact&theme=github_dark)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,angular,php,postgresql,mysql,docker,linux,git,c" />
+</p>
 
 ---
 
+<!-- Graphs et Stats -->
+### 📈 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bouabre225&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouabre225&layout=compact&theme=tokyonight&hide_border=true" alt="Langages dominants" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bouabre225&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Projets -->
 ### 🧩 Projets phares
 
-Voici quelques dépôts que je mets en avant :
-
-| Projet | Techs / Brief |
-|---|---|
-| [Crud](https://github.com/bouabre225/Crud) | Application CRUD avec React + API Laravel |
-| [Jeu de pierre feuille ciseaux](https://github.com/bouabre225/jeu-de-pierre-feuille-ciseaux) | Jeu simple en Python |
-| [Carte étudiant](https://github.com/bouabre225/catre-etudiant) | Gestion de carte étudiant en PHP |
-| [Portfolio](https://github.com/bouabre225/portfolio) | Mon site portfolio / vitrine |
+| 🚧 Projet | ⚙️ Stack | 📄 Description |
+|-----------|-----------|----------------|
+| [Crud](https://github.com/bouabre225/Crud) | React / Laravel | Application CRUD complète |
+| [Jeu Pierre-Feuille-Ciseaux](https://github.com/bouabre225/jeu-de-pierre-feuille-ciseaux) | Python | Petit jeu console interactif |
+| [Carte Étudiant](https://github.com/bouabre225/catre-etudiant) | PHP / MySQL | Gestion numérique de cartes étudiantes |
+| [Portfolio](https://github.com/bouabre225/portfolio) | HTML / CSS / JS | Mon site vitrine personnel |
 
 ---
 
+<!-- Graph d'activité -->
+### 🕓 Activité récente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bouabre225&theme=tokyo-night&hide_border=true" alt="Graphique d’activité GitHub"/>
+</p>
+
+---
+
+<!-- Contact -->
 ### 🔗 Me retrouver ailleurs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ange-kore-a60287235)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angebouabre463@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ange-kore-a60287235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:angebouabre463@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-  
-> « Full‑Stack Developer passionné, avec un cœur qui bat côté backend. Passionné, motivé & toujours en quête de défis »  
 
----
-
-Merci de votre visite ! 👋  
+> 💬 “Full-Stack Developer passionné — un esprit backend avec une touche de frontend.”  
+> <p align="right">— Ange KORE</p>
