@@ -14,7 +14,6 @@
 🎯 J’aime concevoir des systèmes solides, performants et bien pensés.  
 🧠 Actuellement, je bosse beaucoup sur **Laravel**, **React**, et **PostgreSQL**.  
 🌱 Je m’intéresse aussi à l’**architecture logicielle**, **Docker**  
-📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/ange-kore-a60287235) · [Mail](mailto:angebouabre463@gmail.com)
 
 ---
 
@@ -36,17 +35,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bouabre225&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
----
-
-### 🧩 Projets phares
-
-| 🚀 Projet | ⚙️ Stack | 📝 Description |
-|-----------|-----------|----------------|
-| [Crud](https://github.com/bouabre225/Crud) | React / Laravel | Application CRUD complète |
-| [Jeu Pierre-Feuille-Ciseaux](https://github.com/bouabre225/jeu-de-pierre-feuille-ciseaux) | Python | Jeu console interactif |
-| [Carte Étudiant](https://github.com/bouabre225/catre-etudiant) | PHP / MySQL | Gestion numérique des cartes étudiantes |
-| [Portfolio](https://github.com/bouabre225/portfolio) | HTML / CSS / JS | Mon site vitrine personnel |
 
 ---
 
