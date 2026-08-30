@@ -20,7 +20,7 @@
 ### 🧰 Stack & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,express,php,flutter,dart,javascript,c" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,express,php,flutter,dart,javascript,c,nextjs,python" />
   <br>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,bootstrap,tailwind,docker,linux,git,vscode,github,postman" />
 </p>
